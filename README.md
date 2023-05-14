@@ -1,2 +1,2 @@
-# Parallax Scrolling Websites
+# Parallax Scrolling Website
 
